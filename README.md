@@ -255,10 +255,6 @@ Bu sıralama grafikler ve CSV çıktılarıyla görselleştirilmiştir.
 - Matplotlib / Seaborn  
 - Jupyter / Kaggle Notebook  
 
----
-
-
-## 🚀 Çalıştırma Adımları
 
 
 
