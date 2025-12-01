@@ -127,15 +127,6 @@ Feature importance plots were generated to visualize this ranking.
 
 ---
 
-## 🚀 How to Run the Project
-
-```bash
-git clone https://github.com/yourusername/scoutium-player-potential.git
-cd scoutium-player-potential
-pip install -r requirements.txt
-jupyter notebook
-
-
 # ⭐ Scoutium Oyuncu Potansiyeli Sınıflandırma Projesi
 ### Makine Öğrenmesi ile Futbolcu Potansiyel Tahmini
 
@@ -269,11 +260,6 @@ Bu sıralama grafikler ve CSV çıktılarıyla görselleştirilmiştir.
 
 ## 🚀 Çalıştırma Adımları
 
-```bash
-git clone https://github.com/kullaniciadi/scoutium-player-potential.git
-cd scoutium-player-potential
-pip install -r requirements.txt
-jupyter notebook
 
 
 
